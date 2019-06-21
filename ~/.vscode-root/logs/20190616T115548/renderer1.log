@@ -1,0 +1,17 @@
+[2019-06-16 11:56:09.675] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 53% of 4232.488ms, saved PROFILE here: '/tmp/exthost-6e7594.cpuprofile' [{"id":"gc","total":26980,"percentage":1},{"id":"program","total":12565,"percentage":0},{"id":"ritwickdey.LiveServer","total":2241574,"percentage":53},{"id":"self","total":43116,"percentage":1},{"id":"Zignd.html-css-class-completion","total":1905331,"percentage":45}]
+[2019-06-16 11:57:43.822] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-06-16 11:57:47.633] [renderer1] [warning] UNRESPONSIVE extension host, 'dbaeumer.jshint' took 76% of 5337.321ms, saved PROFILE here: '/tmp/exthost-6d4f67.cpuprofile' [{"id":"dbaeumer.jshint","total":4060717,"percentage":76},{"id":"ecmel.vscode-html-css","total":1100557,"percentage":21},{"id":"gc","total":69335,"percentage":1},{"id":"program","total":146,"percentage":0},{"id":"self","total":98846,"percentage":2}]
+[2019-06-16 12:37:05.020] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:963:433)
+    at Y.updateWidth (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:961:270)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:532)
+    at i.elementDisposable.i.label.onDidRender (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5285:607)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:77:983)
+    at D.render (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4424:576)
+    at D.notifyFileDecorationsChanges (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4421:569)
+    at _widgets.forEach.t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4418:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4418:731)
+    at e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:74:369)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:77:983)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:74:652)

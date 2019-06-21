@@ -1,0 +1,96 @@
+[2019-06-21 12:30:03.829] [exthost] [info] extension host started
+[2019-06-21 12:30:03.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-21 12:30:03.995] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-21 12:30:04.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-21 12:30:04.080] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-06-21 12:30:04.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-21 12:30:04.329] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-21 12:30:04.582] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-21 12:30:04.582] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-06-21 12:30:04.707] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-21 12:30:04.707] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/eg2.vscode-npm-script-0.3.7/dist/extension
+[2019-06-21 12:30:04.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:04.786] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-21 12:30:04.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:04.907] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-21 12:30:04.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:04.968] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-21 12:30:05.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:05.360] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-21 12:30:05.415] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:05.415] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-21 12:30:05.547] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:05.547] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-21 12:30:05.675] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:05.676] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-21 12:30:05.860] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:05.860] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2019-06-21 12:30:06.140] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:06.140] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-21 12:30:06.671] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:06.671] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-21 12:30:06.795] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:06.795] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-06-21 12:30:11.238] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-06-21 12:30:11.238] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-06-21 12:30:14.550] [exthost] [info] eager extensions activated
+[2019-06-21 12:30:15.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-21 12:30:15.484] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-21 12:30:21.139] [exthost] [info] ExtensionService#_doActivateExtension bierner.lit-html {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-21 12:30:21.139] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/bierner.lit-html-1.11.0/out/index.js
+[2019-06-21 12:30:24.427] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-21 12:30:24.427] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2019-06-21 12:30:31.221] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-21 12:30:31.221] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
+[2019-06-21 12:30:49.835] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-21 12:30:49.835] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ecmel.vscode-html-css-0.2.0/out/src/extension
+[2019-06-21 12:39:53.128] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-21 12:39:53.163] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getStartsOnNewLine (tsserver.js:64087:29)
+    at shouldWriteSeparatingLineTerminator (tsserver.js:87425:27)
+    at emitNodeList (tsserver.js:87210:29)
+    at emitList (tsserver.js:87107:13)
+    at Object.writeList (tsserver.js:84550:13)
+    at tsserver.js:107985:29
+    at Object.mapToDisplayParts (tsserver.js:97521:13)
+    at itemInfoForParameters (tsserver.js:107982:41)
+    at getSignatureHelpItem (tsserver.js:107948:95)
+    at tsserver.js:107921:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:107921:36)
+    at tsserver.js:107513:23
+    at Object.runWithCancellationToken (tsserver.js:31649:28)
+    at Object.getSignatureHelpItems (tsserver.js:107511:32)
+    at Object.getSignatureHelpItems (tsserver.js:122240:37)
+    at Proxy.rest (/home/tanu/.vscode/extensions/bierner.lit-html-1.11.0/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:183:24)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:131190:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130090:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:197666)
+    at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:203034)
+    at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:201786)
+    at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:201142)
+    at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+    at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206446)
+    at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206094)
+    at Socket.emit (events.js:182:13)
+    at Socket.EventEmitter.emit (domain.js:442:20)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)

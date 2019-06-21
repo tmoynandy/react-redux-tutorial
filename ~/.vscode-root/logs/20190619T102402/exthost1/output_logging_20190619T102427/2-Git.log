@@ -1,0 +1,407 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/tanu
+> git status -z -u
+> git show :Desktop/react-redux-tutorial/my-app/package.json
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.css
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/serviceWorker.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas-uiComponent.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/AddTodo.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/AddNinja.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/todoapp/src/Todos.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/todoapp/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/public/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/public/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Home.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/About.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Contact.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Navbar.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Navbar.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Navbar.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Navbar.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Home.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/About.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/higher-order-components/Rainbow.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/higher-order-components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/About.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/higher-order-components/Rainbow.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/higher-order-components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Home.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Home.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Home.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Post.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app2/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/
+> git show :Desktop/react-redux-tutorial/my-app2/src/components/Post.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app2/src/components/

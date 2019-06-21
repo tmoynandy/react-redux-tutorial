@@ -1,0 +1,104 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/tanu
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/public/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/public/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/changing state/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/changing state/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/changing state/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/changing state/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/index.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/Forms - Intro/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/Forms - Intro/
+> git show :Desktop/react-redux-tutorial/my-app/src/ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/Forms - Intro/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/Forms - Intro/
+> git show :Desktop/react-redux-tutorial/my-app/src/ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/Forms - Intro/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/Forms - Intro/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/Forms - Intro/index.html
+> git ls-files --stage -- Desktop/react-redux-tutorial/Forms - Intro/
+> git show :Desktop/react-redux-tutorial/my-app/src/Ninjas.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git show :Desktop/react-redux-tutorial/my-app/src/App.js
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/src/
+> git check-ignore -v -z --stdin
+> git show :Desktop/react-redux-tutorial/my-app/package.json
+> git ls-files --stage -- Desktop/react-redux-tutorial/my-app/

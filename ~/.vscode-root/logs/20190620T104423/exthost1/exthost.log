@@ -1,0 +1,46 @@
+[2019-06-20 10:44:38.114] [exthost] [info] extension host started
+[2019-06-20 10:44:38.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-20 10:44:38.388] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-20 10:44:38.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-20 10:44:38.538] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-06-20 10:44:38.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-20 10:44:38.664] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-20 10:44:38.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-20 10:44:38.987] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-06-20 10:44:39.173] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-06-20 10:44:39.173] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/eg2.vscode-npm-script-0.3.7/dist/extension
+[2019-06-20 10:44:39.480] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:39.480] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-20 10:44:39.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:39.760] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-20 10:44:39.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:39.938] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-20 10:44:40.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:40.522] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-20 10:44:40.720] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:40.720] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-20 10:44:41.123] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:41.123] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-20 10:44:42.358] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:42.358] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-20 10:44:43.037] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:43.037] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2019-06-20 10:44:43.728] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:43.728] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-20 10:44:45.978] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:45.978] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-20 10:44:46.255] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:46.255] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-06-20 10:44:50.943] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-06-20 10:44:50.943] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-06-20 10:44:52.632] [exthost] [info] eager extensions activated
+[2019-06-20 10:44:53.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-20 10:44:53.433] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-20 10:50:34.398] [exthost] [info] ExtensionService#_doActivateExtension bierner.lit-html {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-20 10:50:34.398] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/bierner.lit-html-1.11.0/out/index.js
+[2019-06-20 10:50:34.783] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-20 10:50:34.783] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2019-06-20 10:50:36.231] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-20 10:50:36.231] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
+[2019-06-20 10:50:50.824] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-06-20 10:50:50.824] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ecmel.vscode-html-css-0.2.0/out/src/extension
